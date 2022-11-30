@@ -1,0 +1,14 @@
+table{ margin: auto;}
+td{ width: 80px; height: 80px;}
+
+.r2
+{ border-top: 1px solid black;
+    border-bottom: 1px solid black;}
+    .special{border-left: 1px solid black;
+        border-right: 1px solid black;
+    
+    }
+    h1{text-align: center; 
+    color: lightgreen}
+    /*
+    tr:nth-of-type(2){ background-color: aquamarine;} */
